@@ -42,6 +42,7 @@ There’re two sections on the online database server
 On the User section a user can check his/her balance and other details
 On the Admin section the admin can ADD/DELETE/MODIFY any client
 Recharge a card can also be possible by the admin from the website
+
 Website link : iot-svm.ml
 
 APPLICATION :
